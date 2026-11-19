@@ -1,0 +1,7 @@
+{
+  "bottom_width_m": 3.0,
+  "water_depth_m": 2.0,
+  "side_slope_h_to_v": 1.5,
+  "energy_slope": 0.001,
+  "manning_n": 0.015
+}
